@@ -52,7 +52,7 @@ sudo apt install -y cmake g++ build-essential
 ```
 
 Instalación de Dependencias
-========================
+------------------------
 Para instalar las dependencias necesarias para ejecutar los entornos de Petting Zoo, puedes usar el siguiente comando:
 ```bash
 pip install "pettingzoo[atari]"
