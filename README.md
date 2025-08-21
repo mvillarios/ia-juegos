@@ -72,7 +72,7 @@ Autorom --accept-license
 
 Enlace de Documentación
 ------------------------
-Para más información sobre Petting Zoo, puedes visitar la [documentación oficial] https://pettingzoo.farama.org/.
+Para más información sobre Petting Zoo, puedes visitar la [documentación oficial](https://pettingzoo.farama.org/).
 
 Instalacion ViZdoom
 ========================
